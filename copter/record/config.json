@@ -1,0 +1,7 @@
+{
+    "scp" : "satellite_configs",
+    "SatDump_path" : "path to SatDump",
+    "sdr_name": "airspy",
+    "baseband_format" : "f32",
+    "timeout" : 480
+}

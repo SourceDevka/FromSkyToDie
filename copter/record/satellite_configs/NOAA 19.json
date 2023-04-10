@@ -1,0 +1,6 @@
+{
+    "satellite_name": "NOAA 19",
+    "pipeline": "noaa_hrpt",
+    "samplerate": "6000000",
+    "gain": "12.0"
+}
